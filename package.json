@@ -1,0 +1,24 @@
+{
+  "name": "event-emitters-template",
+  "version": "1.0.0",
+  "description": "<br /> <p align=\"center\">",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-MII-SYTWS/event-emitters-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-MII-SYTWS/event-emitters-template/issues"
+  },
+  "homepage": "https://github.com/ULL-MII-SYTWS/event-emitters-template#readme",
+  "dependencies": {
+    "events": "^3.3.0",
+    "node-fetch": "^2.6.6"
+  }
+}
